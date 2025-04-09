@@ -1,2 +1,2 @@
 # PointSEN
-Code will be aviable upon acceptence
+Code will be available upon acceptence
